@@ -1,0 +1,7 @@
+# Ignore images directory from version control
+images/
+
+# OS / editor noise
+.DS_Store
+
+
